@@ -17,3 +17,12 @@ chore => gereksiz bir şey yapıldı comit attık.
 // Ayrıca dökümantasyon da yazmalıdır.
 
 Merhaba ben main
+
+o yüzdeennn biz her zmaan bir repo sorumlusu seçmeyi öneririz!
+
+
+Hesap makinesi uygulaması
+
+index.html
+assets/css/main.css
+assets/js/script.js
