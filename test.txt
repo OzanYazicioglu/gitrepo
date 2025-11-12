@@ -16,3 +16,4 @@ chore => gereksiz bir şey yapıldı comit attık.
 // Bir geliştrici uygulama geliştirirken kesinlikle changelog yayınlamalıdır.
 // Ayrıca dökümantasyon da yazmalıdır.
 
+Merhaba ben main
