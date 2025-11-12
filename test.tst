@@ -1,0 +1,18 @@
+1 Bugün GİT'i kesinlikle öğreneceğim!
+
+Semantic Version Control
+1-> Çok önemli değişiklik olduğu anlamındadır
+1.1-> New Feature -> yeni özellik
+1.1.1-> buf fix küçük tespitlerin değişmesi
+
+
+Conventational Comits
+
+fix => bug fix
+feat => Feature
+reactor => kodun iyileştirilmesi
+chore => gereksiz bir şey yapıldı comit attık.
+
+// Bir geliştrici uygulama geliştirirken kesinlikle changelog yayınlamalıdır.
+// Ayrıca dökümantasyon da yazmalıdır.
+
